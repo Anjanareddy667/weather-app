@@ -1,2 +1,18 @@
-# weather-app
-A simple Python-based weather application that fetches real-time weather data using the OpenWeatherMap API. The app allows users to enter a city name and displays temperature and weather conditions with proper error handling.
+🌦️ Python Weather App
+
+A simple command-line weather application built using Python.  
+It fetches real-time weather information for a given city using the OpenWeatherMap API.
+
+🚀 Features
+-> Search weather by city name
+-> Displays temperature in Celsius
+-> Shows weather condition/description
+-> Handles invalid city names and API errors
+-> Simple and beginner-friendly
+
+
+ 🛠️ Tech Stack
+ -> Python
+ -> Requests library
+ -> OpenWeatherMap REST API
+
